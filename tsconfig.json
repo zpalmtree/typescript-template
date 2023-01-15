@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es2021",
+        "outDir": "./dist",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "inlineSourceMap": true
+    }
+}
