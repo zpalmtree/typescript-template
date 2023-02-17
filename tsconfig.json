@@ -6,6 +6,7 @@
         "moduleResolution": "node",
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
-        "inlineSourceMap": true
+        "inlineSourceMap": true,
+        "strict": true
     }
 }
