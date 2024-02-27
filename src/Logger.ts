@@ -1,7 +1,7 @@
 import { Logger as TsLogger } from 'tslog';
 
 export const logger = new TsLogger({
-    prettyLogTemplate: "\n {{yyyy}}.{{mm}}.{{dd}} {{hh}}:{{MM}}:{{ss}} {{logLevelName}} [{{filePathWithLine}}]\n",
+    prettyLogTemplate: "\n {{yyyy}}.{{mm}}.{{dd}} {{hh}}:{{MM}}:{{ss}} {{logLevelName}} [{{filePathWithLine}}]\n ",
     stylePrettyLogs: true,
     prettyLogStyles: {
         logLevelName: {
