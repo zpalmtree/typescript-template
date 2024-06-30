@@ -18,15 +18,11 @@
     "dependencies": {
         "@types/cors": "^2.8.17",
         "@types/express": "^4.17.21",
-        "@types/node-fetch": "^2.6.11",
-        "@types/uuid": "^10.0.0",
         "cors": "^2.8.5",
         "express": "^4.19.2",
         "http": "^0.0.1-security",
-        "node-fetch": "2",
         "path-to-regexp": "^7.0.0",
-        "tslog": "^4.4.4",
-        "uuid": "^10.0.0"
+        "tslog": "^4.4.4"
     },
     "devDependencies": {
         "@types/jest": "^29.2.5",

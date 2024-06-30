@@ -2,10 +2,6 @@ import express, { Request, Response } from 'express';
 import { Server } from 'http';
 import cors from 'cors';
 import { match } from 'path-to-regexp';
-import fetch from 'node-fetch';
-import * as fs from 'fs/promises';
-import * as url from 'url';
-import { v4 as uuidv4 } from 'uuid';
 
 import {
     RouteData,
